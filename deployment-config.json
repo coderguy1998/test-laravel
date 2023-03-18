@@ -1,0 +1,11 @@
+[
+    {
+        "name": "WhiteHouse",
+        "ip": "134.209.114.237",
+        "username": "root",
+        "port": "22",
+        "beforeHooks": "",
+        "afterHooks": "",
+        "path": "/var/www/html"
+    }
+]
