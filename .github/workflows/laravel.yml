@@ -147,3 +147,4 @@ jobs:
             ln -s -f $STORAGE_PATH $RELEASE_PATH
             ln -s -n -f $RELEASE_PATH $ACTIVE_RELEASE_PATH
             service php8.1-fpm reload
+            printf(${BASE_PATH})
